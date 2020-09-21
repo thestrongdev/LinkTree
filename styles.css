@@ -1,0 +1,33 @@
+#heading{
+  margin: auto;
+  background-color: #87CEFA;
+  width: 250px;
+  text-align: center;
+  padding: 10px;
+  border-radius: 25px;
+  font-family: 'Short Stack', cursive;
+}
+
+body{
+  background-color: #e085c2;
+}
+
+#form{
+  background-color:#FF7F50;
+  border-radius: 25px;
+  font-family: 'Short Stack', cursive;
+  width: 250px;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
+
+#linkList{
+  background-color:#D8BFD8;
+  border-radius: 25px;
+  font-family: 'Short Stack', cursive;
+  width: 250px;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
